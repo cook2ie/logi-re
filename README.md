@@ -1,4 +1,4 @@
-# 🖱 Logitech Web Redesign (Personal Project)
+# 🖱 Logitech Web Re-Design (Personal Project)
 
 기존 로지텍 공식 사이트를 바탕으로,  
 브랜드의 전문성과 정돈된 이미지는 유지하면서  
@@ -11,7 +11,7 @@
 - **Original Site**  
   👉 [로지텍 공식 사이트 바로가기](https://www.logitech.com/ko-kr)
 
-- **Redesign Site**  
+- **Re-Design Site**  
   👉 [로지텍 리디자인 바로가기](https://cook2ie.github.io/logi-re/)
 
 ---
