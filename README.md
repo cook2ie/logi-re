@@ -7,10 +7,10 @@
 
 ## 🔗 Live Site
 
-- **Original Site**  
+- **기존 사이트**  
   https://www.logitech.com/ko-kr
 
-- **Redesign Site**  
+- **리디자인 사이트**  
   https://cook2ie.github.io/logi-re/
 
 ---
