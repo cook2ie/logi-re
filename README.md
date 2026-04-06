@@ -9,10 +9,10 @@
 ## 🔗 Live Site
 
 - **Original Site**  
-  https://www.logitech.com/ko-kr
+👉 [로지텍 바로가기](https://www.logitech.com/ko-kr)
 
 - **Redesign Site**  
-  https://cook2ie.github.io/logi-re/
+👉 [로지텍 리디자인 바로가기]https://cook2ie.github.io/logi-re/)
 
 ---
 
