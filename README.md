@@ -61,4 +61,7 @@ HTML / CSS / JavaScript / jQuery
 전체 레이아웃 안에서 일관성 있게 활용할 때  
 사이트의 인상이 훨씬 또렷해질 수 있다는 점을 경험했습니다.
 
-![Logitech Redesign Preview](images/logi-main.png)
+## 📸 Preview
+
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/06f08eb9-95f5-410c-a7e8-a5594c997d84" />
+
