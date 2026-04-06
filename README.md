@@ -12,7 +12,7 @@
 👉 [로지텍 바로가기](https://www.logitech.com/ko-kr)
 
 - **Redesign Site**  
-👉 [로지텍 리디자인 바로가기]https://cook2ie.github.io/logi-re/)
+👉 [리디자인 바로가기](https://cook2ie.github.io/logi-re/)
 
 ---
 
