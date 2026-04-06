@@ -28,18 +28,18 @@
 
 ---
 
+## 🛠 Tech Stack
+
+- HTML / CSS / JavaScript / jQuery
+
+---
+
 ## 🎯 Design Concept
 
 - 기존의 안정적이고 정돈된 구조는 유지
 - 불필요한 요소를 줄여 더 미니멀한 화면 구성 적용
 - 브랜드 키 컬러 **#00FDCF**를 적극 활용해 아이덴티티 강화
 - 주변기기 브랜드 특유의 차갑고 딱딱한 인상을 보다 감성적으로 재해석
-
----
-
-## 🛠 Tech Stack
-
-HTML / CSS / JavaScript / jQuery
 
 ---
 
