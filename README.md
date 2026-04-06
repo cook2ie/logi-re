@@ -60,3 +60,5 @@ HTML / CSS / JavaScript / jQuery
 또한 브랜드 컬러를 부분적으로만 사용하는 것이 아니라  
 전체 레이아웃 안에서 일관성 있게 활용할 때  
 사이트의 인상이 훨씬 또렷해질 수 있다는 점을 경험했습니다.
+
+![Logitech Redesign Preview](images/logi-main.png)
