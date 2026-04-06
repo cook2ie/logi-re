@@ -16,14 +16,6 @@
 
 ---
 
-## 🖼 Preview
-
-![Logitech Redesign Preview](images/logi-preview.png)
-
-> ※ 이미지 경로는 본인 깃허브 폴더 구조에 맞게 수정해서 사용해주세요.
-
----
-
 ## 🧩 Overview
 
 기존 사이트는 브랜드 신뢰감과 정보 전달력은 충분했지만,  
@@ -45,6 +37,12 @@
 
 ---
 
+## 🛠 Tech Stack
+
+HTML / CSS / JavaScript / jQuery
+
+---
+
 ## 👨‍💻 Key Points
 
 - 제품 중심의 레이아웃을 더 직관적으로 정리
@@ -54,9 +52,9 @@
 
 ---
 
-## 🛠 Tech Stack
+## 📸 Preview
 
-HTML / CSS / JavaScript / jQuery
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/06f08eb9-95f5-410c-a7e8-a5594c997d84" />
 
 ---
 
@@ -70,8 +68,4 @@ HTML / CSS / JavaScript / jQuery
 또한 브랜드 컬러를 포인트로만 사용하는 것이 아니라  
 레이아웃 전반에 일관되게 녹여낼 때  
 사이트의 정체성과 완성도가 더 분명해진다는 점을 경험했습니다.
-
-## 📸 Preview
-
-<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/06f08eb9-95f5-410c-a7e8-a5594c997d84" />
 
